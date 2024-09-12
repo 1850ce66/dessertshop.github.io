@@ -4,6 +4,7 @@
 技術： HTML、CSS、JavaScript、rwd、jquery、bootstrap
 
 成果：
+
 -Bootstrap：我運用了Bootstrap框架來簡化頁面樣式的設置，特別是在排版和樣式方面，並且使用Bootstrap的排版樣式來提升頁面的整體美觀性和一致性。
 
 -jQuery MyCart 插件：使用了jQuery MyCart插件，這插件負責處理購物車功能。讓用戶能夠方便地查看和管理購物車中的商品，提高了用戶的互動體驗。
